@@ -1,0 +1,1 @@
+# sim-presisi-qr-scanner
